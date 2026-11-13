@@ -1,4 +1,4 @@
-# spell.py - учебный файл
+# spell.py - экспериментальная версия
 
-power = 10
+power = 999
 print(f"Сила: {power}")
